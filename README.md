@@ -8,11 +8,11 @@ Novel research idea in the Dr. Jacob D. Durrant Lab of Computational Drug Discov
 
 **Documents in Folder**
 
-`ML_Features_NNScore2.0_Basic_Abstraction.txt`: 
+`ML_Features_NNScore2.0_Basic_Abstraction.txt`
 
 Contains basic structure of the code in a language agnostic manner while including all the different variables required. This is mainly surface-level detail abstraction of the necessary code to extract potentially meaningful molecular features. 
 
-`NNSCore2.0_Descriptors_Pseudocode.txt`: 
+`NNSCore2.0_Descriptors_Pseudocode.txt`
 
 Well-organized and final pseudocode document that lays out the actual analysis and reasons behind the code and the way/order in which it is executed. It gives clear explanation/instruction on what needs to be done at each point in such a way that the pseudocode can be taken and modified heavily to yield the same result as the original software. 
 
