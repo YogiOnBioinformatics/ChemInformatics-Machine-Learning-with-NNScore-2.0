@@ -1,3 +1,12 @@
+#################################################################################################
+### THIS CODE CANNOT BE RUN AS A REGULAR PYTHON PROGRAM AND IS NOT INTENDED TO BE! The only   ###
+### reason this abstraction is converted to Python is for people who want syntax highlighting.###
+### As is obvious, the syntax highlighting does not work perfectly but may help guide people. ###
+### My personal recommendation is to look at the original txt files themselves.               ###
+#################################################################################################
+
+
+
 class binana:
 
     def _init_
