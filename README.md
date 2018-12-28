@@ -17,6 +17,11 @@ Contains basic structure of the code in a language agnostic manner while includi
 Well-organized and final pseudocode document that lays out the actual analysis and reasons behind the code and the way/order in which it is executed. It gives clear explanation/instruction on what needs to be done at each point in such a way that the pseudocode can be taken and modified heavily to yield the same result as the original software. 
 
 
+`Python Files` 
+
+The original text files have been converted to Python files without any real modifications. Obviously, the Python files are not able to run. The only reason this has also been provided is for those that like syntax highlighting when viewing the pseudocode/abstraction. 
+
+
 **Contact Information** 
 
 ![interests](https://avatars1.githubusercontent.com/u/38919947?s=400&u=49ab1365a14fac78a91e425efd583f7a2bcb3e25&v=4)
