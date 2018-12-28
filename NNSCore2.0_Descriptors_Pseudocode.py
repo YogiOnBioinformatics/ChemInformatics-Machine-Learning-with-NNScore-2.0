@@ -1,3 +1,13 @@
+#################################################################################################
+### THIS CODE CANNOT BE RUN AS A REGULAR PYTHON PROGRAM AND IS NOT INTENDED TO BE! The only   ###
+### reason this pseudocode is converted to Python is for people who want syntax highlighting. ###
+### As is obvious, the syntax highlighting does not work perfectly but may help guide people. ###
+### My personal recommendation is to look at the original txt files themselves.               ###
+#################################################################################################
+
+
+
+
 { LIGAND-RECEPTOR ATOMS THAT ARE LESS THAN TWO AND A HALF ANGSTROM'S APART }
 
 Output: {}, maintaining counter of the number of times any combination of atom types are found that are less than 2.5 A away from each other 
