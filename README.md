@@ -1,6 +1,6 @@
 # ChemInformatics-Machine-Learning-with-NNScore-2.0
 
-**Note: As of January 2019, this is still an ongoing project.** New software is being written using the pseudocode/basic abstraction which will ultimately yield new molecular descriptors that can be used for ML. 
+**Note: As of January 2019, this is still an ongoing project.** New software is being written using the pseudocode/basic abstraction which will ultimately yield new molecular descriptors that can be used for Machine Learning. 
 
 **Introduction**
 
@@ -16,10 +16,9 @@ Contains basic structure of the code in a language agnostic manner while includi
 
 Well-organized and final pseudocode document that lays out the actual analysis and reasons behind the code and the way/order in which it is executed. It gives clear explanation/instruction on what needs to be done at each point in such a way that the pseudocode can be taken and modified heavily to yield the same result as the original software. 
 
-
 `Python Files` 
 
-The original text files have been converted to Python files without any real modifications. Obviously, the Python files are not able to run. The only reason this has also been provided is for those that like syntax highlighting when viewing the pseudocode/abstraction. 
+The original text files have been converted to Python files without any real modifications. Obviously, the Python files are not able to run. The only reason this has also been provided is for those that like syntax highlighting when viewing the pseudocode/abstraction. They can be found in the `Python Copy` folder. 
 
 
 **Contact Information** 
