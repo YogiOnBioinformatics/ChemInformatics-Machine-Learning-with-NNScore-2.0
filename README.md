@@ -1,6 +1,6 @@
 # ChemInformatics-Machine-Learning-with-NNScore-2.0
 
-**Note: As of January 2019, this is still an ongoing project.** New software is being written using the pseudocode/basic abstraction which will ultimately yield new molecular descriptors that can be used for Machine Learning. 
+**Note:** New software is being written using the pseudocode/basic abstraction which will ultimately yield new molecular descriptors that can be used for Machine Learning. 
 
 **Introduction**
 
